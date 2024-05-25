@@ -40,7 +40,7 @@ frame_preview_v.grid(row=0, column=1, rowspan=2, padx=1, pady=0, sticky=NSEW)
 
 ################# Label titulo ###############
 
-label_titulo_v = Label(frame_titulo_v, text='Conta a receber',anchor=NW, font=('Ivy 13 bold'), bg=co2, fg=co1, relief='flat')
+label_titulo_v = Label(frame_titulo_v, text='Contas a receber',anchor=NW, font=('Ivy 13 bold'), bg=co2, fg=co1, relief='flat')
 label_titulo_v.place(x=10, y=20)
 
 # Definição da variável global tree_v
